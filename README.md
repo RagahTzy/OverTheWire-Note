@@ -1,5 +1,5 @@
-# OverTheWire-Note (rawan spoiler)
-hanya catatan tentang overthewire
-
-- Disclaimer : 
-catatan yang saya buat, adalah catatan berdasarkan pengalaman, dan apa yang saya lakukan, jadi jika ada perbedaan cara, mohon dimaafkan, dan jika ada koreksi, saran, atau kritik, sangat amat diperbolehkan
+# OverTheWire-Note (Spoiler)
+Just a note about overoverthewire  
+  
+- Disclaimer :
+What i write on this repository is based on my experience, so if there is a different between what i do and what you do, you can tell me, and also if you have any correction, suggest, or some criticism, i really appraciate it.
