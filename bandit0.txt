@@ -1,2 +1,4 @@
+password: bandit0
+
 it's so fucking basic
-just use cat on terminal
+just use the fucking cat on the fucking terminal
